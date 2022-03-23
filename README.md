@@ -16,12 +16,15 @@ In this project I will focus on **attacking aspects** of the wingbacks of top te
 ## Findings
 1. Actually there is a trend of using wingbacks in attack, indicated by the graph
 
-![](plot1.png?raw=true)
+![](image/plot1.png?raw=true)
 
 2. The best wingback is **Alphonso Davies** from FC Bayern Munich with leading `xGChain90` and `xGBuildup90`.
 
-![](Davies.png?raw=true)
+![](image/Davies.png?raw=true)
 
 3. **Trent Alexander-Arnold** from Liverpool FC is the best wingback in terms of stats directly related to goals, e.g `key passes`, `expected assists`.
 
-![](Arnold.png?raw=true)
+![](image/Arnold.png?raw=true)
+
+## Try out the code
+You can try out the code of this project in [this Deepnote notebook](https://deepnote.com/@binh-hong-ngoc-a131/Attacking-wingbacks-in-top-5-leagues-in-Europe-9_-oWE4uQsO_bbB4WdC6Jw).
